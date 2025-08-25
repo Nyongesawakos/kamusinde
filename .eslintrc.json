@@ -1,0 +1,3 @@
+{
+  "etends": ["next/core-web-vitals", "standard"]
+}
